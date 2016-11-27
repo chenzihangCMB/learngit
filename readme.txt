@@ -6,3 +6,4 @@ Git tracks a lot of changes.
 //在新分支上提交代码
 Creating a branch is quick & simple!
 //不要工作在Master分支上！！
+//临时修复bug时记得将当前工作stash一下！！
