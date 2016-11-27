@@ -7,3 +7,4 @@ Git tracks a lot of changes.
 Creating a branch is quick & simple!
 //不要工作在Master分支上！！
 //issue-101已经修改了！
+//临时修复bug时记得将当前工作stash一下！！
